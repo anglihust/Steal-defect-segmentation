@@ -1,0 +1,13 @@
+{
+  "epochs": 2,
+  "pretrain": false,
+  "load_pretrain": false,
+  "steelbatch": 1,
+  "model_name": "effcient0_unet",
+  "reshape": true,
+  "segbatch": 1,
+  "is_train_cl": true,
+  "is_train_seg": true,
+  "is_inferece": true,
+  "cl_clean": false
+}
