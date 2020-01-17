@@ -19,5 +19,5 @@ https://www.kaggle.com/c/severstal-steel-defect-detection
 
 # How to use it
 - Put images for training and testing in folders data\train_images and data\test_images
-- Change "model_name" in config.json to train different segmentation models
-- Change "cl_clean" in config.json to determine whether use classfication network to remove false positive segmentation
+- Set "model_name" in config.json to train different segmentation models
+- Set "cl_clean" in config.json to determine whether use classfication network to remove false positive segmentation
